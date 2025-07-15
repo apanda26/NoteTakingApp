@@ -4,7 +4,7 @@ A simple web-based Notes App where users can:  Add notes  Edit saved notes  Dele
 
 Option 1: Open Locally (No setup needed)
 Clone or download the repo:
-git clone https://github.com/yourusername/notes-app.git
+git clone https://github.com/apanda26/notes-app.git
 cd notes-app
 Open index.html in your browser:
 start index.html   # Windows
